@@ -1,10 +1,10 @@
 # Autores
-Diego Pinheiro da Silva
-Blanda Helena de Mello
-William Fröhlich
-Sandro José Rigo
-Marco Antonio Schwertner
-Cristiano André da Costa
+* Diego Pinheiro da Silva
+* Blanda Helena de Mello
+* William Fröhlich
+* Sandro José Rigo
+* Marco Antonio Schwertner
+* Cristiano André da Costa
 
 #### Esta revisão foi submetida a uma revista internacional, a qual está aguardando resposta, por esta razão publicamos o protocolo desenvolvido para consulta.
 
