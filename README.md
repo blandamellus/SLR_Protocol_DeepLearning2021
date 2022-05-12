@@ -1,8 +1,10 @@
 # Protocol
 
-O protocolo criado utilizando a ferrament StArt[^1].
+O protocolo foi criado utilizando a ferrament StArt[^1], que permite o uso de um software desktop para definição do protocolo, cadastro das questões de interesse em critérios de inclusão e exclusão com base no protocolo desenvolvido por KITCHENHAM, Barbara[^2].
 
 [^1]: Fabbri, S., Octaviano, F., Silva, C., Di Thommazo, A., Hernandes, E., and Belgamo, A. (2016). Improvements in the Start tool to better support the systematic review process. In Proc. of the 20th International Conference on Evaluation and Assessment in Software Engineering (EASE'16), Limerick, Ireland, June 2016.
+[^2]: Kitchenham, B. (2004). Procedures for performing systematic reviews. Keele, UK, Keele University, 33(2004), 1-26.
+
 
 ### Objetivo
 Esta revisão sistemática busca encontrar os artigos que trabalham com extração de relações e deep learning, buscando encontrar técnicas e validações de Inteligência Artificial (IA), como Processamento de Linguagem Natural (PLN) e também as suas aplicações na área da saúde. 
