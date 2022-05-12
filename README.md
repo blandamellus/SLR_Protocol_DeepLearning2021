@@ -1,3 +1,14 @@
+# Autores
+Diego Pinheiro da Silva
+Blanda Helena de Mello
+William Fröhlich
+Sandro José Rigo
+Marco Antonio Schwertner
+Cristiano André da Costa
+
+#### Esta revisão foi submetida a uma revista internacional, a qual está aguardando resposta, por esta razão publicamos o protocolo desenvolvido para consulta.
+
+
 # Protocol
 
 O protocolo foi criado utilizando a ferrament StArt[^1], que permite o uso de um software desktop para definição do protocolo, cadastro das questões de interesse em critérios de inclusão e exclusão com base no protocolo desenvolvido por KITCHENHAM, Barbara[^2].
